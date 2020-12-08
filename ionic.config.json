@@ -1,0 +1,7 @@
+{
+  "name": "deli-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
